@@ -112,9 +112,9 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINK  
-- 📧 Email: your.email@example.com  
-- 🌍 GitHub: https://github.com/YOUR_USERNAME  
+- 💼 LinkedIn: https://www.linkedin.com/in/rajan-kumar-78800/
+- 📧 Email: rajan06166@gmail.com 
+- 🌍 GitHub: https://github.com/Rajan9865 
 
 ---
 
