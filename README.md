@@ -106,7 +106,8 @@
 </p> -->
 ## 📈 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=Rajan9865&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Rajan9865's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajan9865&show_icons=true&theme=dark)
+
 
 ---
 
