@@ -50,5 +50,5 @@ Java | Spring MVC | JDBC | MySQL
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINK
-- Email: your.email@example.com
+- LinkedIn: [https://www.linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/rajan-kumar-78800/)
+- Email: rajan06166@gmail.com
