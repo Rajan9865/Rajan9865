@@ -11,7 +11,8 @@
 
 ---
 
-<img align="right" alt="Developer Illustration" width="380" src="profile.png"/>
+<!-- <img align="right" alt="Developer Illustration" width="380" src="profile.png"/> -->
+<img align="right" alt="Developer Illustration" width="380" src="profile1.gif"/>
 
 ## 🧑‍💻 About Me
 - 💼 **4+ years** of experience in **Java Backend Development**
