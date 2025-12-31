@@ -105,7 +105,7 @@
 <!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rajan9865&show_icons=true&theme=tokyonight" />
 </p> -->
-![Rajan9865's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajan9865&show_icons=true&theme=dark)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajan9865)](https://github.com/Rajan9865/github-readme-stats)
 
 ---
 
