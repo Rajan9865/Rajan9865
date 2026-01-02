@@ -106,7 +106,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Rajan9865&show_icons=true&theme=tokyonight" />
   [Rajan kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajan9865&commits_year=2025)
 </p> -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajan9865&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rajan9865&show_icons=true&v=1)
+
 
 ---
 
