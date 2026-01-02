@@ -65,30 +65,31 @@
 
 ### 🔸 Senior Backend Software Engineer  
 **Inventia Technologies** | Noida, India  
-*Present*
+*June 2025 – Present*
 
-- Led the design and development of **scalable backend systems** using **Java 8 and Spring Boot**, supporting enterprise-grade applications.
-- Architected and implemented **RESTful microservices** with clean separation of concerns and modular design.
-- Developed and optimized **high-performance APIs**, reducing average response time through query optimization and caching strategies.
-- Implemented **secure authentication and authorization** using **Spring Security (JWT, Role-Based Access Control)**.
-- Designed and maintained **database schemas** and optimized **MySQL/PostgreSQL queries** for large datasets.
-- Built and managed **CI/CD pipelines** using **Jenkins and GitHub Actions**, improving deployment reliability.
+- Led the design and development of scalable backend systems using **Java 8 and Spring Boot** for enterprise-grade applications.
+- Architected and implemented **RESTful microservices** with clean, modular, and maintainable design.
+- Developed and optimized high-performance APIs, improving response times through query optimization and efficient data access.
+- Implemented secure authentication and authorization using **Spring Security (JWT, Role-Based Access Control)**.
+- Designed and optimized database schemas and queries using **MySQL/PostgreSQL**.
+- Built and maintained **CI/CD pipelines** using **Jenkins and GitHub Actions**.
 - Deployed and monitored applications on **AWS (EC2, S3, RDS)** and **Docker/Kubernetes** environments.
-- Collaborated with **frontend, QA, DevOps, and product teams** to deliver features from design to production.
-- Actively participated in **code reviews, performance tuning, and mentoring junior developers**.
+- Collaborated with frontend, QA, DevOps, and product teams to deliver features from design to production.
+- Conducted code reviews and mentored junior developers to maintain high code quality.
 
 ---
 
 ### 🔸 Software Engineer (Java Backend)  
 **FCI-CCM**  
-*Previous Experience*
+*September 2022 – June 2025*
 
-- Developed and maintained **backend modules** using **Core Java and Spring Boot** for enterprise systems.
-- Built and consumed **REST APIs**, enabling seamless integration between internal applications.
+- Developed and maintained backend modules using **Core Java and Spring Boot** for enterprise systems.
+- Built and integrated **REST APIs** to support internal and external application workflows.
 - Worked extensively with **MySQL** for CRUD operations, indexing, and query optimization.
-- Debugged and resolved **production issues**, improving system stability and reliability.
-- Followed **clean code principles** and best practices in backend development.
-- Gained strong fundamentals in **object-oriented design, backend architecture, and API development**.
+- Diagnosed and resolved production issues, improving application stability and performance.
+- Followed clean code principles and best practices in backend development.
+- Strengthened foundations in **object-oriented design, backend architecture, and API development**.
+
 
 
 ## 📌 Featured Projects
