@@ -63,7 +63,7 @@
 
 ## 💼 Professional Experience
 
-### 🔸 Senior Backend Software Engineer  
+### 🔸 Senior Software Engineer- Java  
 **Inventia Technologies** | Noida, India  
 *June 2025 – Present*
 
