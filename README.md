@@ -15,9 +15,9 @@
 <!-- <img align="right" alt="Developer Illustration" width="380" src="profile1.gif"/> -->
 
 ## 🧑‍💻 About Me
-      Senior Backend Software Engineer with **4+ years of experience** in **Java and Spring Boot**,
-      specializing in **microservices, REST APIs, and scalable backend systems**.
-      Currently at **Inventia Technologies**, previously with **FCI-CCM**.
+  Senior Backend Software Engineer with **4+ years of experience** in **Java and Spring Boot**,
+  specializing in **microservices, REST APIs, and scalable backend systems**.
+  Currently at **Inventia Technologies**, previously with **FCI-CCM**.
 - ☕ Strong expertise in **Java 8 (Streams, Lambda, Optional)**
 - 🧩 Microservices & REST API specialist
 - ☁️ Cloud-native developer with **AWS & Kubernetes**
