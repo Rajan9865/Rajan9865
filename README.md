@@ -130,9 +130,9 @@
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/rajan-kumar-78800/
-- 📧 Email: rajan06166@gmail.com 
-- 🌍 GitHub: https://github.com/Rajan9865 
+<a href="https://www.linkedin.com/in/rajan-kumar-78800/" target="_blank">LinkedIn</a>
+<a href="mailto:rajan06166@gmail.com" target="_blank">Email</a>
+<a href="https://github.com/Rajan9865" target="_blank">GitHub</a>
 
 ---
 
